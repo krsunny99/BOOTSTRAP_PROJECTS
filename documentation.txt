@@ -1,0 +1,10 @@
+#########################
+
+-----------Dont apply container on nav and slider.
+-----------check on three mobile phone ipad,pro,iphone
+------------justify-content-evenly
+------------#f1f1	
+------------freepik.com
+----------------------------------------PRoject 2--------------------------------------
+#daac00
+#fcc02
